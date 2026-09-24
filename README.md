@@ -31,7 +31,7 @@ I specialize in building **scalable applications and intelligent systems**, comb
 ## 🎓 Education
 
 - 🎓 **B.Tech CSE (AI/ML)** — Adamas University (2023–2027)  
-  **CPI:** 7.89  
+  **CPI:** 8.04  
 - 📘 Class 12 (CBSE): 70%  
 - 📗 Class 10 (ICSE): 84%  
 
